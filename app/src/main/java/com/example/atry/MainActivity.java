@@ -17,9 +17,5 @@ public class MainActivity extends AppCompatActivity {
 
         myadapter = new MyAdapter(mydataset);
         recyclerView.setAdapter(myadapter);
-
-
-
-
     }
 }
